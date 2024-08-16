@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+
+# build location
+build/
+
+# macOS settings file
+.DS_Store
+
+# vscode configuration
+.vscode/
+
+# jetbrains configuration
+.idea/
+
+# configuration files
+*.config.js
+
+# logs
+*.log
+
+# compiled files
+*.min.css
+
+# specific file types
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# setup files
+.env
+.env.*
+.gitignore
+.prettierignore
+.prettierrc
+package.json
+package-lock.json
+tsconfig.json

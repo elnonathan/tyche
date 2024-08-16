@@ -1,0 +1,24 @@
+# environment files
+.env
+.env.*
+
+# allows example .env files
+!.env.example
+
+# npm debug logs
+npm-debug.log*
+
+# dependencies
+node_modules/
+
+# build location
+build/
+
+# macOS settings file
+.DS_Store
+
+# vscode configuration
+.vscode/
+
+# jetbrains configuration
+.idea/
