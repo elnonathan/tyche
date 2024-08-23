@@ -1,0 +1,25 @@
+{
+	"object": "page",
+	"entry": [
+		{
+			"id": "",
+			"time": 0,
+			"messaging": [
+				{
+					"sender": {
+						"id": ""
+					},
+					"recipient": {
+						"id": ""
+					},
+					"timestamp": 0,
+					"message": {
+						"mid": "",
+						"seq": 0,
+						"text": "%MENSAJE DE PRUEBA%"
+					}
+				}
+			]
+		}
+	]
+}

@@ -22,3 +22,6 @@ build/
 
 # jetbrains configuration
 .idea/
+
+# llm model custom configuration
+modelfile

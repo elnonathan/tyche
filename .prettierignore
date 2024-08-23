@@ -38,3 +38,6 @@ build/
 package.json
 package-lock.json
 tsconfig.json
+
+# llm model custom configuration
+modelfile
